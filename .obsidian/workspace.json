@@ -46,6 +46,33 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
+          },
+          {
+            "id": "771fd79c9f626b73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "450201e85d2a408e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       }
@@ -160,8 +187,8 @@
   },
   "active": "f4d51151ebdfab90",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Backend/UniversityLabsProject/UniverseLabs.md",
+    "Dashboard.md",
     "Backend/UniversityLabsProject/Models.md",
     "Backend/DTO.md",
     "Backend/UniversityLabsProject/Migrations.md",

@@ -1,4 +1,1 @@
-## Projects
-- [[UniversityLabsProject/Models]]
-- [[UniversityLabsProject/WebApi]]
-- [[Backend/DTO]]
+Задания по предмету backend: [[UniverseLabs]]
