@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e63eac6383dd572",
+        "id": "4aa4cb9e8cf7ca4e",
         "type": "tabs",
         "children": [
           {
-            "id": "01578be6f36272e0",
+            "id": "f4d51151ebdfab90",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,14 +158,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01578be6f36272e0",
+  "active": "f4d51151ebdfab90",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Backend/UniversityLabsProject/UniverseLabs.md",
     "Backend/UniversityLabsProject/Models.md",
     "Backend/DTO.md",
     "Backend/UniversityLabsProject/Migrations.md",
     "Backend/UniversityLabsProject/WebApi.md",
-    "Dashboard.md",
     "Backend/UniversityLabsProject",
     "Backend",
     "Untitled 1.md",
