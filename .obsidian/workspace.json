@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4aa4cb9e8cf7ca4e",
+        "id": "35ef0dcdb7ecca05",
         "type": "tabs",
         "children": [
           {
-            "id": "666d2ae0604fd340",
+            "id": "7208978021a9186c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/UniversityLabsProject/Migrations.md",
+                "file": "Backend/Patterns/UnitOfWork.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Migrations"
-            }
-          },
-          {
-            "id": "133ac70246397402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/CSharp.Net/DI/CSharp.Net DI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSharp.Net DI"
+              "title": "UnitOfWork"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,29 +185,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "133ac70246397402",
+  "active": "7208978021a9186c",
   "lastOpenFiles": [
-    "Backend/CSharp.Net/CSharp.Net.md",
+    "Backend/Patterns/DTO.md",
+    "Backend/Patterns/UnitOfWork.md",
+    "Backend/UniversityLabsProject/WebApi/DAL/DAL.md",
+    "Backend/UniversityLabsProject/WebApi/DAL/Models",
+    "Backend/UniversityLabsProject/WebApi/DAL/Repositories",
+    "Backend/UniversityLabsProject/WebApi/WebApi.md",
+    "Backend/UniversityLabsProject/WebApi/BLL/BLL.md",
+    "Backend/UniversityLabsProject/WebApi/BLL/Services/OrderService.md",
+    "Backend/UniversityLabsProject/WebApi/BLL/Services",
+    "Backend/UniversityLabsProject/UniverseLabs.md",
+    "Dashboard.md",
+    "Backend/UniversityLabsProject/WebApi/Controllers/Contollers.md",
+    "Backend/UniversityLabsProject/Migrations/Migrations.md",
+    "Backend/UniversityLabsProject/Migrations",
+    "Backend/UniversityLabsProject/WebApi",
+    "Backend/UniversityLabsProject/Models/Models.md",
+    "Backend/UniversityLabsProject/Models",
+    "Backend/UniversityLabsProject/WebApi/Validators",
+    "Backend/UniversityLabsProject/Migrations/MigrationScript/First Migration.md",
+    "Backend/UniversityLabsProject/WebApi/Validators/Validators.md",
+    "Backend/UniversityLabsProject/Migrations/VersionTable.md",
+    "Backend/UniversityLabsProject/WebApi/Controllers",
+    "Backend/UniversityLabsProject/WebApi/BLL",
+    "Backend/UniversityLabsProject/WebApi/DAL",
+    "Backend/UniversityLabsProject/Untitled.md",
+    "Backend/UniversityLabsProject/Migrations/MigrationRunner.md",
+    "Backend/UniversityLabsProject/Migrations Program.cs.md",
     "Backend/CSharp.Net/DI/CSharp.Net DI.md",
+    "Backend/CSharp.Net/DI/IServiceProvider.md",
+    "Backend/CSharp.Net/DI/IServiceDescriptor.md",
+    "Backend/CSharp.Net/DI/IServiceCollection.md",
+    "Backend/CSharp.Net/CSharp.Net.md",
     "Backend/CSharp.Net/Packages/CSharp.Net Packages.md",
-    "Backend/UniversityLabsProject/MigrationRunner.md",
-    "Backend/CSharp.Net/DI",
-    "VersionTable.md",
-    "Backend/UniversityLabsProject/Migrations.md",
     "Backend/CSharp.Net/Packages/FluentMigrator.md",
     "Backend/CSharp.Net/Packages/Npgsql.md",
-    "Backend/UniversityLabsProject/Models.md",
-    "Backend/CSharp.Net/Packages",
-    "Backend/UniversityLabsProject/WebApi.md",
-    "Backend/UniversityLabsProject/UniverseLabs.md",
-    "Backend/UniversityLabsProject/Untitled.md",
-    "Backend/CSharp.Net",
-    "Backend/Patterns",
-    "Dashboard.md",
-    "Backend/Patterns/DTO.md",
-    "Backend/UniversityLabsProject",
-    "Backend",
-    "Untitled 1.md",
-    "Untitled 2.md"
+    "Untitled 1.md"
   ]
 }
