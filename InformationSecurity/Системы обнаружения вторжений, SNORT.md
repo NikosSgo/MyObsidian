@@ -49,7 +49,7 @@
         `alert icmp any any -> $HOME_NET any (msg:"ICMP Flood Detected"; threshold: type both, track by_src, count 100, seconds 1; sid:1000001;)`
         *   `alert` — действие (генерировать оповещение).
         *   `icmp` — протокол.
-        *   `$HOME_NET any -> $HOME_NET any` — трафик от любого к нашей защищаемой сети.
+        *   `any any -> $HOME_NET any` — трафик от любого к нашей защищаемой сети.
         *   В скобках — опции: сообщение, порог (100 пакетов за 1 секунду от одного источника), уникальный идентификатор правила (sid).
 
 4.  **Источники правил:**
