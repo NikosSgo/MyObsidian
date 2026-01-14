@@ -7,3 +7,4 @@ aliases:
 - [[C++]]
 - [[Rust]]
 - [[CSharp.Net]]
+- [[Python]]
