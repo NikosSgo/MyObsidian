@@ -3,6 +3,6 @@ aliases:
   - HomePage
 ---
 Направления CS: [[ComputerScience|Computer Science]]
-Языки программирования: [[ProgrammigLanguages]]
+Языки программирования: [[ProgrammingLanguages|Programming Languages]]
 Список всех проектов: [[Projects]]
 
