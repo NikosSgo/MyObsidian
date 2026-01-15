@@ -4,6 +4,7 @@ aliases:
   - Компьютерные науки
 ---
 Помощник по Backend разработке: [[Backend]]
+Помощник по SQL: [[SQL]]
 Помощник по нейронным сетям: [[NeuralNetworks]]
 Помощник по Компьютерному зрению: [[ComputerVision|Computer Vision]]
 Помощник по интеллектуальным системам: [[Intelegence Systems]]
