@@ -1,4 +1,4 @@
 Проект дипломной работы: [[Дипломная работа]]
+Проекты на github: [[GitHubProjects|GitHub Projects]]
 
-Университетские проекты:
-- Проект по лабораторным заданиями предмета Backend: [[UniversityBackendLabs]]
+Проект по лабораторным заданиями предмета Backend: [[UniversityBackendLabs]]
