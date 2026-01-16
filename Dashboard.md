@@ -6,3 +6,5 @@ aliases:
 Языки программирования: [[ProgrammingLanguages|Programming Languages]]
 Список всех проектов: [[Projects]]
 
+
+Список заданий: ![[Taskboard]]
