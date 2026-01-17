@@ -6,5 +6,5 @@
 - [[Механизм Lifetimes в Rust]]
 
 Асинхронность в языке - [[Асинхронность в Rust]]  
-Список пакетов в языкe - [[ProgrammingLanguages/Rust/Packages/Packages|Rust Packages]]
-Ключевые слова в языке - [[ProgrammingLanguages/Rust/Keywords/Keywords|Rust Keywords]]
+Список пакетов в языкe - [[Языки программирования/Rust/Packages/Packages|Rust Packages]]
+Ключевые слова в языке - [[Языки программирования/Rust/Keywords/Keywords|Rust Keywords]]
