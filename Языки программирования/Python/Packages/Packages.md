@@ -2,3 +2,6 @@
 aliases:
   - Python Packages
 ---
+[[FastApi]]
+
+

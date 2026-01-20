@@ -6,6 +6,8 @@
 	- value_objects
 	- aggregates
 	- repositories
+	- events
+	- exceptions
 - application
 - infrastructure
 - presentation
