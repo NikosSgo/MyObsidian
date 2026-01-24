@@ -5,7 +5,7 @@
 	- entities
 	- value_objects
 	- aggregates
-	- repositories 
+	- repositories (abstract)
 	- events
 	- exceptions
 - application
@@ -13,6 +13,7 @@
 	- persistance
 		- models
 			- mixin
+	- repositories (implementation)
 - presentation
 	- api
 
