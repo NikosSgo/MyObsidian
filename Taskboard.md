@@ -18,10 +18,52 @@ kanban-plugin: board
 
 
 
+## Когда нибудь попробовать
+
+- [ ] Selenium
+- [ ] k8s
+- [ ] Jenkins
+- [ ] MongoDB
+- [ ] Apache Spark
+- [ ] Litestar
+- [ ] Понять зачам нужен CQRS
+- [ ] Изучить git углублённо
+- [ ] Понять про asgi
+
+
+## Узнать что это
+
+- [ ] Nexus registry
+- [ ] K8s
+- [ ] Celery/Gevent
+
+
+## Попробовать в проекте
+
+- [ ] Redis
+- [ ] Langchain
+- [ ] Elasticsearch
+- [ ] Websocket
+- [ ] Kubernetes
+- [ ] Clickhouse
+- [ ] Pytest
+- [ ] Rag
+- [ ] Grafana
+- [ ] Prometheus
+
+
+## Узнал, пон
+
+- [ ] Hexagonal architecture
+- [ ] FastApi Lifecycles
+- [ ] Airflow Dag
+- [ ] SSE
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
 ```
 %%
