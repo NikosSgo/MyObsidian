@@ -36,7 +36,7 @@ created_at
 updated_at
 ```
 
-PatchOperationResource
+PatchOperationResource - выход операции
 ```sql
 id (PK)
 operation_id (FK → PatchOperation.id)
@@ -53,3 +53,4 @@ depends_on_resource_id (FK → OperationResource.id)  -- конкретный р
 created_at
 updated_at
 ```
+
