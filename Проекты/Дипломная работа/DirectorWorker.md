@@ -40,10 +40,16 @@ PatchOperationResource
 ```sql
 id (PK)
 operation_id (FK → PatchOperation.id)
-file_id (FK → ProjectFile.id, nullable)  -- output файл, создаваемый операцией
-resource_type ENUM('file', 'temp_clip', …)
-status ENUM('pending', 'ready', 'failed')
+file_id (FK → ProjectFile.id, nullable)
 created_at
 updated_at
 ```
 
+OperationDependency
+```
+id (PK)
+operation_id (FK → PatchOperation.id)        -- операция, которую нужно выполнить
+depends_on_resource_id (FK → OperationResource.id)  -- конкретный ресурс, который нужен
+created_at
+updated_at
+```
