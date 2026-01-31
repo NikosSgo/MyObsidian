@@ -37,6 +37,7 @@ kanban-plugin: board
 - [ ] Nexus registry
 - [ ] K8s
 - [ ] Celery/Gevent
+- [ ] Infisical
 
 
 ## Попробовать в проекте
