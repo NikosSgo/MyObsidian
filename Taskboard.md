@@ -31,6 +31,7 @@ kanban-plugin: board
 - [ ] Бэкапы в бд
 - [ ] envoy / service proxy / service mash
 - [ ] yaeger
+- [ ] eventual consistency
 
 
 ## Узнать что это
