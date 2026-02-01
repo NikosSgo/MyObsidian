@@ -29,6 +29,8 @@ kanban-plugin: board
 - [ ] Изучить git углублённо
 - [ ] Понять про asgi
 - [ ] Бэкапы в бд
+- [ ] envoy / service proxy / service mash
+- [ ] yaeger
 
 
 ## Узнать что это
