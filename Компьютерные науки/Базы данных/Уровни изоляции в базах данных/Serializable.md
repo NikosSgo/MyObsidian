@@ -6,7 +6,6 @@
 - Non-Repeatable Read
 - Phantom Read
 - Lost Update
-    
 
 Минусы:
 - Снижение производительности.
