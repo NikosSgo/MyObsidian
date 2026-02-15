@@ -19,6 +19,7 @@ $$
 $$
 \begin{aligned}
 \cdot &- \text{точка умножения} \\
+\frac{x}{y} &- \text{деление} \\
 \times &- \text{крестик умножения} \\
 \ast &- \text{звёздочка умножения} \\
 \backslash &-\text{обратный слэш} \\
