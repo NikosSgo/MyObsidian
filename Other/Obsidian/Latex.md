@@ -58,6 +58,8 @@ $$
 &\gets -\text{ стрелка влево} \\
 &\longrightarrow - \text{ длинная правая стрелка} \\
 &\longleftarrow - \text{ длинная левая стрелка} \\
+&\Rightarrow - \text{ длинная правая стрелка} \\
+&\Leftarrow - \text{ длинная правая стрелка} \\
 &\square - \text{квадрат}
 \end{aligned}
 $$
