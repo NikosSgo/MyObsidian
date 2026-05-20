@@ -34,6 +34,14 @@ $$
 ---
 $$
 \begin{aligned}
+\neg &- \text{отрицание} \\
+\wedge &- \text{конъюнкция} \\
+\vee &- \text{дизъюнкция} \\
+\end{aligned}
+$$
+---
+$$
+\begin{aligned}
 &\sum_{i=1}^n \text{ - суммирование элементов множества} \\
 \end{aligned}
 $$
