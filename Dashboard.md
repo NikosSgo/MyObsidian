@@ -8,4 +8,4 @@ aliases:
 Список всех проектов: [[Projects]]
 
 
-Список заданий: ![[Taskboard]]
+Список заданий: [[Taskboard]]
