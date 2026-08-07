@@ -1,4 +1,5 @@
-Примеры Docker Compose:
-- [[Docker Compose Postgres| Postgres]]
-	- [[Docker compose pgadmin|Postgres and pgadmin]]
-- [[Docker Compose MinIO|MinIO]]
+Книги:
+- [[Лиз Райс - Безопасность контейнеров - 2026.pdf]]
+Видео:
+- [Docker под капотом chroot, runc, unshare, ns, cgroups](https://youtu.be/t4PEoHAvf1A?si=p2Ng5gFIeIbhvGR4)
+[[Docker. Содержание]]
