@@ -1,0 +1,8 @@
+{
+  "autoSync": true,
+  "bidirectionalSync": false,
+  "autoConvertToNotebookOnRun": true,
+  "pythonInterpreter": "C:\\Users\\nikos\\OneDrive\\Документы\\MyObsidian\\.jupymd\\Scripts\\python.exe",
+  "notebookEditorCommand": "jupyter-lab",
+  "enableCodeBlocks": true
+}

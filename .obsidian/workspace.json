@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Экзамен в магистратуру фундаментальная информатика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Экзамен в магистратуру фундаментальная информатика"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5577cff060d85c9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2c60798053a9633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14276c4e02779a19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "bb594fae97e25296",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:классификация",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "c873826d5412d298",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.3000030517578
+  },
+  "right": {
+    "id": "c0bfcee87efd7a40",
+    "type": "split",
+    "children": [
+      {
+        "id": "48ef742030f4ea2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fa02b43e9c87387",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Компьютерные науки/Frontend/Понятие DOM.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "3f66fa1321a0af87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Компьютерные науки/Frontend/Понятие DOM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "687fd72f96dfbbbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "fdb162771bc3e983",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "e98dce688bf128f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Математика/Теория графов/Планарные графы.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "2299d12b9ef60993",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Компьютерные науки/Frontend/Понятие DOM.md"
+              },
+              "icon": "lucide-info",
+              "title": "Свойства файла"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-kanban:Create new board": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Dashboard.md",
+    "Компьютерные науки/Машинное обучение/Регресия/Линейная регрессия.md",
+    "Компьютерные науки/Машинное обучение/Регресия/Линейная регрессия в Python.md",
+    "Other/Obsidian/JupyMD инструкция.md",
+    "Компьютерные науки/Машинное обучение/Регресия/Линейная регрессия.ipynb",
+    "Other/Obsidian/JupyMD инструкция.ipynb",
+    "Компьютерные науки/Машинное обучение/Методы оценки ошибок/Метод наименьших квадратов.md",
+    "Компьютерные науки/Машинное обучение/Методы оценки ошибок/Логистическая потеря.md",
+    "Компьютерные науки/Машинное обучение/Кластерный анализ/K-Means.md",
+    "Компьютерные науки/Машинное обучение/Кластерный анализ/Кластерный анализ.md",
+    "Компьютерные науки/Машинное обучение/Кластерный анализ/Мера близости в кластерном анализе.md",
+    "Other/Экзамен в магистратуру фундаментальная информатика.md",
+    "Компьютерные науки/Машинное обучение/Регресия/Полиномиальная регрессия.md",
+    "Компьютерные науки/Машинное обучение/Регресия/Логистическая регрессия.md",
+    "Компьютерные науки/Машинное обучение/Статистическое обучение.md",
+    "Математика/Математическая статистика/Математическая статистика.md",
+    "Компьютерные науки/Нейронные сети/Функции активации/Сигмоидальные функции активации.md",
+    "Компьютерные науки/Нейронные сети/Функции активации/Виды функций активации.md",
+    "Компьютерные науки/Нейронные сети/Функции активации/Линейные функции активации.md",
+    "Компьютерные науки/Нейронные сети/Функции активации/Радиально-базисные функции активации.md",
+    "Компьютерные науки/Нейронные сети/Функции активации/Пороговые функции активации.md",
+    "Компьютерные науки/Машинное обучение/Регресия/Линейная регрессия. Шпаргалка.md",
+    "Компьютерные науки/Машинное обучение/Метрики оценки качества моделей/Метрики оценки качества моделей машинного обучения.md",
+    "Книги/Джеймс Г. - Введение в статистическое обучение с примерами на Python - 2024.pdf",
+    "Компьютерные науки/Машинное обучение/Методы оценки ошибок/Разложение ошибки на компоненты.md",
+    "Компьютерные науки/Машинное обучение/Методы оценки ошибок/Методы оценки ошибок.md",
+    "Компьютерные науки/Машинное обучение/Методы оценки ошибок/Случайная ошибка.md",
+    "Компьютерные науки/Машинное обучение/Методы оценки ошибок/Виды ошибок в моделях машинного обучения.md",
+    "Компьютерные науки/Машинное обучение/Методы оценки ошибок",
+    "Книги/Бослаф С. - Статистика для всех - 2015.pdf",
+    "Книги/Бусяцкая - Линейная алгебра.pdf",
+    "Книги/Коэн Майк Икс - Прикладная линейная алгебра для исследователей данных - 2023.pdf",
+    "Книги/Ilin_Poznjak_Lineinaja_alg.pdf",
+    "Книги/Голуб Дж., Ван Лоун Ч. - Матричные вычисления - 1999.pdf",
+    "Книги/Скиена Стивен - Алгоритмы. Руководство по разработке - 2022.pdf",
+    "Секреты/Смета/Изображение сметы.png",
+    "Секреты/Смета/Изображение сметы 2.png",
+    "Секреты/Смета/Изображение сметы 3.png",
+    "Компьютерные науки/Компьютерные сети/Сетевой уровень OSI/Адресация/IPV4 пакет.jpg",
+    "Компьютерные науки/Компьютерные сети/Кодирование/QAM-16 проверка.png",
+    "Секреты/Смета/Офис смета/Pasted image 20260730153952.png",
+    "Секреты/Смета/Офис смета/Pasted image 20260730160450.png"
+  ]
+}
