@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [book, программирование, csharp, asp-net]
 category: Языки программирования/CSharp
 status: unread

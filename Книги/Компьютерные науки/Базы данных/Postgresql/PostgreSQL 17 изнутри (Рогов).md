@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [book, postgresql, базы_данных]
 category: Компьютерные науки/Базы данных/Postgresql
 status: unread

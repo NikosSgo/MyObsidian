@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [book, kafka, other]
 category: Other
 status: unread
