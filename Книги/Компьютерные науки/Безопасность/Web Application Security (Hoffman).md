@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [book, безопасность, web]
 category: Компьютерные науки/Безопасность
 status: unread

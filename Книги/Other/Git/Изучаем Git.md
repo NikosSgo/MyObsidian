@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [book, git, other]
 category: Other/Git
 status: unread
