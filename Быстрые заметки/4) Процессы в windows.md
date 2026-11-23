@@ -1,0 +1,1 @@
+netstat -a (all) -n ( без dns имён) -o (показать pid)

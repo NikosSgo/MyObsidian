@@ -1,0 +1,97 @@
+filters:
+  and:
+    - file.inFolder("Книги")
+    - file.hasTag("book")
+properties:
+  file.name:
+    displayName: Книга
+  note.num:
+    displayName: №
+  note.author:
+    displayName: Автор
+  note.year:
+    displayName: Год
+  note.topic:
+    displayName: Тема
+  note.tags:
+    displayName: Теги
+  note.status:
+    displayName: Статус
+  note.lang:
+    displayName: Язык
+  note.pdf:
+    displayName: PDF
+views:
+  - type: table
+    name: Все книги
+    order:
+      - num
+      - file.name
+      - author
+      - year
+      - topic
+      - tags
+      - status
+      - lang
+      - pdf
+    sort:
+      - property: num
+        direction: ASC
+    columnSize:
+      file.name: 626
+  - type: table
+    name: По темам
+    groupBy:
+      property: topic
+      direction: ASC
+    order:
+      - num
+      - file.name
+      - author
+      - year
+      - tags
+      - status
+      - pdf
+    sort:
+      - property: num
+        direction: ASC
+  - type: table
+    name: Не прочитано
+    filters:
+      and:
+        - status == "unread"
+    order:
+      - num
+      - file.name
+      - author
+      - year
+      - topic
+      - tags
+      - pdf
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Читаю
+    filters:
+      and:
+        - status == "reading"
+    order:
+      - num
+      - file.name
+      - author
+      - topic
+      - tags
+      - pdf
+  - type: table
+    name: Прочитано
+    filters:
+      and:
+        - status == "done"
+    order:
+      - num
+      - file.name
+      - author
+      - topic
+      - tags
+      - pdf

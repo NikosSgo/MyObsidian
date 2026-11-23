@@ -1,3 +1,3 @@
 Книги:
-- [[_media_books_izuchaem-git-poshagovoe-rukovodstvo-s-naglyadnymi-primerami.pdf]]
-- [[git-kontrol-versij-3-e-izd-ponutoraj-prem-kumar-loliger-dzhon-2025.pdf]]
+- [[Изучаем Git (Скулликари, 2023).pdf]]
+- [[Контроль версий Git, 3-е изд. (Понуторай, Лолигер, 2025).pdf]]
