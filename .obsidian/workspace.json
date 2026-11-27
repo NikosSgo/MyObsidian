@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Домашняя заметка.md",
+                "file": "Секреты/Промпты/1) Промпт для TISAM.DE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Домашняя заметка"
+              "title": "1) Промпт для TISAM.DE"
             }
           }
         ]
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "Секреты/Промпты/1) Промпт для TISAM.DE.md"
               },
               "icon": "lucide-info",
               "title": "Свойства файла"
@@ -205,12 +205,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "14276c4e02779a19",
   "lastOpenFiles": [
+    "Книги/60 Postgres 19 documentation/postgresql-19-A4.pdf",
+    "Книги/60 Postgres 19 documentation",
     "Домашняя заметка.md",
+    "Секреты/Промпты/1) Промпт для TISAM.DE.md",
+    "Секреты/Промпты/2) Промпт для TISAM.PC.md",
+    "Быстрые заметки/15) Git подсказки.md",
+    "Быстрые заметки/11) Очистка образов в докере.md",
+    "Секреты/Промпты/0) Промпты.base",
+    "Книги/00 Библиотека/00 Библиотека.base",
+    "Книги/00 Библиотека/00 Книги.md",
+    "Секреты/Промпты/0) Промпты.md",
+    "Секреты/Промпты",
     "Быстрые заметки/14) Расширение диска Linux.md",
     "Быстрые заметки/13) Распаковка архивов в консоли.md",
-    "Быстрые заметки/11) Очистка образов в докере.md",
     "Быстрые заметки/10) Apt в линуксе.md",
     "Быстрые заметки/9) docker-compose.yml.md",
     "Быстрые заметки/8) Пароли.md",
@@ -226,13 +236,8 @@
     "Untitled Kanban.md",
     "Книги/57 High Performance Browser Networking (Grigorik I., 2013)/Экскурс в неопределенное поведение C++ (Свиридкин, Карпов, 2025).md",
     "Книги/56 Экскурс в неопределенное поведение C++ (Свиридкин, Карпов, 2025)/Экскурс в неопределенное поведение C++ (Свиридкин, Карпов, 2025).md",
-    "Книги/00 Библиотека/00 Библиотека.base",
-    "Книги/00 Библиотека/00 Книги.md",
     "Быстрые заметки/12) Tools в .net.md",
     "Pasted image 20261106130943.png",
-    "Секреты/Тесты/Работа в crm с тестами.md",
-    "Секреты/Тесты/Удобство тестирования и предложения.md",
-    "Секреты/Тесты/Шаблон тест-кейса.md",
     "Pasted image 20261106131757.png",
     "Pasted image 20261106131659.png",
     "Книги/59 Web Scraping With Python, 3rd Edition (Mitchell Ryan, 2024)/Web Scraping With Python, 3rd Edition (Mitchell Ryan, 2024).pdf",
@@ -241,11 +246,6 @@
     "Книги/59 Web Scraping With Python, 3rd Edition (Mitchell Ryan, 2024)",
     "Книги/58 Computer Networking, 9th Edition (Kurose James, Ross Keith, 2026)",
     "Книги/57 High Performance Browser Networking (Grigorik I., 2013)",
-    "Секреты/Тесты",
-    "Секреты/Временные заметки/1) Правки по коду TISAM.DE 02-11-2026.md",
-    "Секреты/Временные заметки/2) Аудиты.md",
-    "Секреты/Временные заметки",
-    "Без названия",
     "Секреты/Смета/Изображение сметы 3.png",
     "Секреты/Смета/Изображение сметы.png",
     "Секреты/Смета/Изображение сметы 2.png",
